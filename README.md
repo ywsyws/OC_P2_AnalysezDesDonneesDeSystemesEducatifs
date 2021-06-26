@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 Ce projet a été réalisé pour le [parcours Data Scientist de OpenClassrooms](https://openclassrooms.com/fr/paths/164-data-scientist). <br>
-Il s'agit de deuxième projet du parcours : [Analysez des données de systèmes éducatifs](https://openclassrooms.com/fr/projects/627/assignment).
+Il s'agit du deuxième projet du parcours : [Analysez des données de systèmes éducatifs](https://openclassrooms.com/fr/projects/627/assignment).
 
 ## 2. Description du Projet
 S'informer auprès des données de la banque mondiale et identifer les marchés potentiels pour l'expansion à l'international.
@@ -11,7 +11,7 @@ S'informer auprès des données de la banque mondiale et identifer les marchés 
 Manipuler, analyser et visualiser des données.
 
 ## 4. Contenu du Repository
-- P2_01_notebook : comporte les manipulations, les analyses détaillées et les visualistion des données.
+- P2_01_notebook : comporte les manipulations, les analyses détaillées et les visualistions des données.
 - P2_02_support : la présentation préparée pour la soutenance du projet
 
 ## 5. Données
